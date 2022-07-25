@@ -25,3 +25,11 @@ git commit -m "added info"
 ## check log
 
 git log
+
+## git remote
+
+git remote add origin https://github.com/ritika28022001/myprojects-Ritika.git
+
+## check
+
+git remote-v
