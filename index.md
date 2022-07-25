@@ -17,3 +17,11 @@ git init
 ## check status
 
 git status
+
+## commit
+
+git commit -m "added info"
+
+## check log
+
+git log
