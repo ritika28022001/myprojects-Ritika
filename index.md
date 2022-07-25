@@ -29,6 +29,8 @@ git log
 ## git remote
 
 git remote add origin https://github.com/ritika28022001/myprojects-Ritika.git
+git remote add remote_name and remote_url
+default remote origin
 
 ## check
 
