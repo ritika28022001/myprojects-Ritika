@@ -35,3 +35,7 @@ default remote origin
 ## check
 
 git remote-v
+
+## add new file
+
+git push
